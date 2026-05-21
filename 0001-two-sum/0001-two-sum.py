@@ -1,10 +1,10 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        dict = {}
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashdict = {}
         for i in range(len(nums)):
             complement = target - nums[i]
-            if complement in dict:
-                return [dict[complement],i]
-            dict[nums[i]] = i
-
+            if complement in hashdict:
+                return [hashdict[complement],i]
+            else:
+                hashdict[nums[i]] = i
         
