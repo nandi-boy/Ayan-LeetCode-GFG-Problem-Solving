@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nandi-boy/Python/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nandi-boy/Python/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
