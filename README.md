@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nandi-boy/Python/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/nandi-boy/Python/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/nandi-boy/Python/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nandi-boy/Python/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nandi-boy/Python/tree/master/0912-sort-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0213-house-robber-ii) |
 ## Memoization
 |  |
 | ------- |
