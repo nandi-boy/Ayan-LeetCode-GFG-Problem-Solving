@@ -97,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nandi-boy/Ayan-LeetCode-GFG-Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
