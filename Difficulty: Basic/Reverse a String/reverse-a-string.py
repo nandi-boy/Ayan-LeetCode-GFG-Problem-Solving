@@ -1,6 +1,4 @@
-#User function Template for python3
-
 class Solution:
-     def reverseString(self, s: str) -> str:
-        return s[::-1]
-        
+    def reverseString(self, s: str) -> str:
+        rs = s[len(s)::-1]
+        return rs
