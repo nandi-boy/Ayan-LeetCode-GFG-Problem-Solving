@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/check-if-divisible-by-363149/1?page=3">Check if divisible by 36</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 14pt;">Given a number <strong>s</strong> in the form of a string, check if it is divisible by 36. </span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>s = "72"
+<strong>Output: </strong>true<br><strong>Explanation: </strong>The number 72 is divisible by 36.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>s = "7"<br><strong>Output: </strong>false<br><strong>Explanation: </strong>The number 7 is not divisible by 36.</span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ s.size() ≤ 10<sup>5</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematical</code>&nbsp;
