@@ -9,3 +9,4 @@ class Solution:
     	         arr2.append(0)
         for i in range(len(arr)):
             arr[i]=arr2[i]
+        return arr2
