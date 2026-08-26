@@ -1,0 +1,13 @@
+class Solution:
+  def isSumPalindrome(self, n):
+    if str(n) == str(n)[::-1]:
+        return n
+
+    for i in range(5):
+        rev = int(str(n)[::-1])
+        n = n + rev
+
+        if str(n) == str(n)[::-1]:
+            return n
+
+    return -1
