@@ -1,0 +1,5 @@
+class Solution:
+    def arrayTraversal(self, arr, size):
+        for i in arr:
+            print(i,end = " ")
+        
